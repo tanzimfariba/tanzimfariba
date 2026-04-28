@@ -106,23 +106,13 @@ https://fariba.shazan.site/
   <a href="https://fb.com/tanzim.chowdhury.142">Facebook</a> •
   <a href="https://instagram.com/tanzim_fariba">Instagram</a> -->
 
-  <!--<a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="32">
-  </a> -->
-  <!-- <a href="https://facebook.com/YOUR_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="32">
-  </a> -->
-  <!-- <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="32">
-  </a> -->
-
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/fariba-tanzim-chowdhury-32a592315/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="32" hspace="10">
   </a>
-  <a href="https://facebook.com/YOUR_USERNAME">
+  <a href="https://facebook.com/tanzim.chowdhury.142">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" height="32" hspace="10">
   </a>
-  <a href="https://instagram.com/YOUR_USERNAME">
+  <a href="https://instagram.com/tanzim_fariba">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" height="32" hspace="10">
   </a>
 </p>
