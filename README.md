@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=59F797&center=true&vCenter=true&width=450&lines=CS Student;Continuous+Learner;Frontend+Focused" /> -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&&size=20&duration=3000&center=true&vCenter=true&pause=1000&width=435&lines=CS+Student;Frontend+Focused;Continuous+Learner" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&&size=20&duration=3000&center=true&vCenter=true&pause=1000&width=435&lines=CS+Student;Frontend+Focused;Continuous+Learner;Always+Exploring" alt="Typing SVG" /></a>
 </p>
 
  --- 
@@ -10,15 +10,17 @@
 ## 🎯 About Me
 - 🎓 Undergraduate Student in **Computer Science & Engineering** at United International University 
 - 💻 Focused on **Frontend Development**
-- ⚛️ Building Apps with **React & Next.js**
-- 🎨 Care About **Clean UI/UX & Performance**
+- 💡 Enthusiastic about **AI**, **Embedded Systems** and **Robotics**
+- 🌱 Always eager to learn new technologies
+<!--- ⚛️ Building Apps with **React & Next.js**
+- 🎨 Care About **Clean UI/UX & Performance** -->
 
 <!-- --- -->
 &emsp;
 
 ## 💡 Tech Stack
 
-### 🧠 Languages
+### 🧠 Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-2370ED?logo=c&logoColor=white"/>
   &emsp;
@@ -28,15 +30,21 @@
   &emsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   &emsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  &emsp;
  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"/>
 </p> -->
 
 ### ⚛️ Frontend
 <p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  &emsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  &emsp;
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/>
   &emsp;
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
-  &emsp;
+  <!-- <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white"/>
+  &emsp; -->
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white"/>
 </p>
 <!--
@@ -69,6 +77,13 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
   &emsp;
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
+</p>
+
+### 🤖 Embedded & IoT (Learning)
+<p align="center">
+  <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
+  &emsp;
+  <img src="https://img.shields.io/badge/ESP32-E7352C?logo=espressif&logoColor=white"/>
 </p>
 
 <!-- --- -->
