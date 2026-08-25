@@ -1,4 +1,4 @@
-<h1 align="center">Hi,👋 I'm Fariba Tanzim Chowdhury</h1>
+<h1 align="center">Hi, I'm Fariba Tanzim Chowdhury</h1>
 
 <p align="center">
   <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=59F797&center=true&vCenter=true&width=450&lines=CS Student;Continuous+Learner;Frontend+Focused" /> -->
@@ -8,10 +8,10 @@
  --- 
 
 ## 🎯 About Me
-- 🎓 Undergraduate Student in **Computer Science & Engineering** at United International University 
-- 💻 Focused on **Frontend Development**
-- 💡 Enthusiastic about **AI**, **Embedded Systems** and **Robotics**
-- 🌱 Always eager to learn new technologies
+-  Undergraduate Student in **Computer Science & Engineering** at United International University 
+-  Focused on **Frontend Development**
+-  Enthusiastic about **AI**, **Embedded Systems** and **Robotics**
+-  Always eager to learn new technologies
 <!--- ⚛️ Building Apps with **React & Next.js**
 - 🎨 Care About **Clean UI/UX & Performance** -->
 
@@ -20,7 +20,7 @@
 
 ## 💡 Tech Stack
 
-### 🧠 Programming Languages
+### Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/C-2370ED?logo=c&logoColor=white"/>
   &emsp;
@@ -30,12 +30,12 @@
   &emsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
   &emsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
-  &emsp;
+  <!-- <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  &emsp; -->
  <!-- <img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white"/>
 </p> -->
 
-### ⚛️ Frontend
+### Frontend
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
   &emsp;
@@ -57,7 +57,7 @@
   <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=white"/>
 </p> -->
 
-### ⚙️ Backend & Tools
+### Backend & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=spring-boot&logoColor=white"/>
   &emsp; 
@@ -72,14 +72,14 @@
   <img src="https://img.shields.io/badge/IntelliJ-000000?logo=intellij-idea&logoColor=white"/>
 </p>
 
-### 🎨 Design
+### Design
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white"/>
   &emsp;
   <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=white"/>
 </p>
 
-### 🤖 Embedded & IoT (Learning)
+### Embedded & IoT (Learning)
 <p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>
   &emsp;
@@ -117,7 +117,7 @@ https://fariba.shazan.site/
 &emsp;
 <!-- --- -->
 
-## 📡 Connect
+## 📡 Let's Connect
 <p align="center">
   <!-- <a href="https://linkedin.com/in/tanzim-chowdhury">LinkedIn</a> •
   <a href="https://fb.com/tanzim.chowdhury.142">Facebook</a> •
